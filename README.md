@@ -12,5 +12,5 @@
 #### 微信与QQ计算转发后能够带来的实际被动播放量计算逻辑说明
 * 1.因为微信与QQ都具有多选好友功能，所以说我们在问卷中设置问题5、6来询问分别在微信与QQ中会选择转发给好友还是群聊，然后选择好友的用户会跳转至问题10，来询问他们是否会使用多选功能。
   ![Image text](https://raw.github.com/zwf19980319/image-questionnaire/blob/main/%E7%AC%AC5%E3%80%816%E9%A2%98.png)
-  ![Image text](https://raw.github.com/zwf19980319/image-questionnaire/blob/main/%E7%AC%AC10%E9%A2%98.png)
+  ![Image text](https://raw.github.com/zwf19980319/image-questionnaire/blob/main/第10题.png)
 
