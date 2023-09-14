@@ -13,6 +13,9 @@
 * 1.因为微信与QQ都具有多选好友功能，所以说我们在问卷中设置问题5、6来询问分别在微信与QQ中会选择转发给好友还是群聊，然后选择好友的用户会跳转至问题10，来询问他们是否会使用多选功能。
 <img width="981" alt="第5、6题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/94d514aa-8872-4dd6-9dd9-cfb6a27aef7e">
 <img width="986" alt="第10题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/ed46af48-ccb4-4a62-b194-87437fac88d4">
+而询问了是否使用多选功能后，我们在11题还问了一般会多选给几个人转发，这基于QQ和微信的多选功能限制，我们设定了一个阈值，即只有最多9个人可以选择。
+<img width="792" alt="第11题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/353eec7f-8f00-4376-bc6d-a243e6ae2a32">
 
+* 2.
 
 
