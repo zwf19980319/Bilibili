@@ -11,6 +11,8 @@
 * 4.跳转到微信或者QQ后，即便转发多选给多个人，但是也只会增加一个转发量，所以使用多选功能的转发给多少人本文通过问卷询问用户在使用多选功能时一般会转发给多少个人。
 #### 微信与QQ计算转发后能够带来的实际被动播放量计算逻辑说明
 * 1.因为微信与QQ都具有多选好友功能，所以说我们在问卷中设置问题5、6来询问分别在微信与QQ中会选择转发给好友还是群聊，然后选择好友的用户会跳转至问题10，来询问他们是否会使用多选功能。
-  ![Image text](https://raw.github.com/zwf19980319/image-questionnaire/blob/main/%E7%AC%AC5%E3%80%816%E9%A2%98.png)
-  ![Image text](https://raw.github.com/zwf19980319/image-questionnaire/blob/main/第10题.png)
+<img width="981" alt="第5、6题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/94d514aa-8872-4dd6-9dd9-cfb6a27aef7e">
+<img width="986" alt="第10题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/ed46af48-ccb4-4a62-b194-87437fac88d4">
+
+
 
