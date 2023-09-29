@@ -15,18 +15,24 @@
 * 2.B站转发后的链接，只有跳转到B站才能够记入到总播放量中，如果在微信打开都不会被记入到总播放量，由此本文为此在问卷中提出问题3“：一般来说如果您在微信或者QQ收到好友转发的B站内容链接，您会点击后直接观看还是说点击跳转至B站客户端观看？”
 * Translate：
 * 1.In this paper, the click behavior caused by forwarding to friends is defined as passive click volume, that is, the user directly clicks on the link to play, rather than the click volume retrieved from many videos in B station to select and play. 
-* 2.The link forwarded by station B can only be recorded in the total number of plays if it is redirected to Station B. If it is opened on wechat, it will not be recorded in the total number of plays. Therefore, this paper raises question 3 ": Generally speaking, if you receive a link to the content of Station B forwarded by a friend on wechat or QQ, will you click and watch it directly or click to jump to the client of Station B to watch it?"
+* 2.The link forwarded by Bilibili can only be recorded in the total number of plays if it is redirected to Station B. If it is opened on wechat, it will not be recorded in the total number of plays. Therefore, this paper raises question 3 ": Generally speaking, if you receive a link to the content of Station B forwarded by a friend on wechat or QQ, will you click and watch it directly or click to jump to the client of Station B to watch it?"
   
   <img width="989" alt="问题3" src="https://github.com/zwf19980319/Bilibili/assets/38912712/1b81bfa8-a869-421c-b210-b1734f75892e">
 
 * 3.本次主要计算的是三个平台(微信、QQ、B站)转发路径的转发扩散量，因为选择这个三个平台作为转发的人数占比加在一起等于75.26%，占比较大。同时本次没有计算这三个路径下的群聊扩散，因为在这三个路径中，选择群聊作为扩散路径的只有11%，而且用户转发至所在群聊的群聊用户人数较少，没有纳入扩散的计算范围。群聊的情况较为复杂，计算的难度和复杂性较大，其比例较低不会太影响点击行为的可操作性。其他的路径分别为微博(10.31%)、跳转至QQ空间(6.19%)、跳转至朋友圈(5.15%)、复制链接去三方平台(3.09%)。
 * 4.跳转到微信或者QQ后，即便转发多选给多个人，但是也只会增加一个转发量，所以使用多选功能转发给多少人本文通过问卷询问用户在使用多选功能时一般会转发给多少个人来获取详细数据。
+* Translate：
+* 3. This time, the main calculation is the forwarding diffusion of the forwarding path of the three platforms (wechat, QQ, Bilibili), because the total number of people who choose these three platforms as forwarding is equal to 75.26%, accounting for a relatively large proportion. At the same time, the group chat diffusion under these three paths was not calculated this time, because only 11% of the three paths chose group chat as the diffusion path, and the number of group chat users forwarded to the group chat was small, which was not included in the calculation range of diffusion. The situation of group chat is more complex, the difficulty and complexity of calculation is larger, and its low proportion will not affect the operability of click behavior. The other paths were Weibo (10.31%), jump to QQ space (6.19%), jump to Moment (5.15%), copy link to the third party platform (3.09%). 
+* 4. After jumping to wechat or QQ, even if multiple choices are forwarded to multiple people, it will only increase the amount of forwarding, so how many people are forwarded to using the multiple choice function? This paper uses a questionnaire to ask users how many people are generally forwarded to when using the multiple choice function to obtain detailed data.
   
 ### 微信多选好友下转发引起的实际被动播放量
+### The actual number of passive plays caused by forwarding under multiple selected friends on wechat
 * 因为微信与QQ都具有多选好友功能，所以说我们在问卷中设置问题5、6来询问分别在微信与QQ中会选择转发给好友还是群聊，然后选择好友的用户会跳转至问题10，来询问他们是否会使用多选好友转发功能。
+* Translate：Because both wechat and QQ have the function of multiple friends, we set questions 5 and 6 in the questionnaire to ask whether they will choose to forward to friends or group chat in wechat and QQ respectively, and then users who choose friends will jump to question 10 to ask whether they will use the function of multiple friends forward.
 <img width="981" alt="第5、、" src="https://github.com/zwf19980319/Bilibili/assets/38912712/03b27d2e-386a-4cd1-8664-894524286a5e">
 <img width="986" alt="第10题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/c79302ae-35be-451c-aeb9-f33a6c9eed73">
 * 而询问了是否使用多选功能后，我们在11题还问了一般会多选给几个人转发，这基于QQ和微信的多选功能限制，我们设定了一个阈值，即最多转发给9个人。
+* Translate：After asking whether to use the multi-choice function, we also asked in question 11 that we would generally select several people to forward, which is based on the multi-choice function restrictions of QQ and wechat, we set a threshold, that is, a maximum of 9 people to forward.
 
 <img width="792" alt="11题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/fcd2fb62-7aee-45a7-a950-2923efbe520c">
 
