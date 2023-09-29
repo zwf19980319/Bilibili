@@ -8,9 +8,14 @@
 
 
 ## 二、对于B站中转发量所真正代表被动点击的比例权重的计算方法
+## 二、The calculation method of the proportional weight of passive clicks really represented by the amount of forwarding in Bilibili
 ### 细节说明
+### Detail description
 * 1.本文将转发给好友而引起的点击行为定义为被动的点击量，即用户直接点击链接进行播放，而非自己在B站中从诸多视频中检索进行选择播放的点击量。
 * 2.B站转发后的链接，只有跳转到B站才能够记入到总播放量中，如果在微信打开都不会被记入到总播放量，由此本文为此在问卷中提出问题3“：一般来说如果您在微信或者QQ收到好友转发的B站内容链接，您会点击后直接观看还是说点击跳转至B站客户端观看？”
+* Translate：
+* 1. In this paper, the click behavior caused by forwarding to friends is defined as passive click volume, that is, the user directly clicks on the link to play, rather than the click volume retrieved from many videos in B station to select and play. 
+* 2. The link forwarded by station B can only be recorded in the total number of plays if it is redirected to Station B. If it is opened on wechat, it will not be recorded in the total number of plays. Therefore, this paper raises question 3 ": Generally speaking, if you receive a link to the content of Station B forwarded by a friend on wechat or QQ, will you click and watch it directly or click to jump to the client of Station B to watch it?" 
   
   <img width="989" alt="第3题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/f36e8fcc-2e43-4ad3-8e58-f508ae0b74d1">
 
