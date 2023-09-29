@@ -1,4 +1,4 @@
-# B站转发量所能够带来的被动播放量计算方法
+# B站转发量所能够带来的被动播放量计算方法(The calculation method of the passive play volume brought by the forwarding volume of Bilibili)
 ## 一、“[B站用户转发分享路径探析问卷报告](https://github.com/zwf19980319/Bilibili/blob/main/B%E7%AB%99%E7%94%A8%E6%88%B7%E8%BD%AC%E5%8F%91%E5%88%86%E4%BA%AB%E8%B7%AF%E5%BE%84%E6%8E%A2%E6%9E%90%E9%97%AE%E5%8D%B7%E6%8A%A5%E5%91%8A.pdf)”这个文件为在进行权重计算的时候对B站用户进行的问卷调查与分析结果
 * 这个分析结果中与微信、QQ转发路径相关的题目为3、4、5、6、10、11、12、16、17、18、19、23、25
 * 这个分析结果中与B站转发路径相关的题目为4、7、24
