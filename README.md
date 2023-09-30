@@ -4,7 +4,7 @@
 * 这个分析结果中与B站转发路径相关的题目为4、7、24
 * Translate：
 * The questions related to wechat and QQ forwarding paths in this analysis result are 3, 4, 5, 6, 10, 11, 12, 16, 17, 18, 19, 23, 25 
-* In this analysis, the questions related to the forwarding path of station B are 4, 7, and 24
+* In this analysis, the questions related to the forwarding path of Bilibili are 4, 7, and 24
 
 
 ## 二、对于B站中转发量所真正代表被动点击的比例权重的计算方法
