@@ -29,7 +29,7 @@
 ### The actual number of passive plays caused by forwarding under multiple selected friends on wechat
 * 因为微信与QQ都具有多选好友功能，所以说我们在问卷中设置问题5、6来询问分别在微信与QQ中会选择转发给好友还是群聊，然后选择好友的用户会跳转至问题10，来询问他们是否会使用多选好友转发功能。
 * Translate：Because both wechat and QQ have the function of multiple friends, we set questions 5 and 6 in the questionnaire to ask whether they will choose to forward to friends or group chat in wechat and QQ respectively, and then users who choose friends will jump to question 10 to ask whether they will use the function of multiple friends forward.
-<img width="981" alt="第5、、" src="https://github.com/zwf19980319/Bilibili/assets/38912712/03b27d2e-386a-4cd1-8664-894524286a5e">
+<img width="981" alt="第5、、" src="https://github.com/zwf19980319/Bilibili/assets/38912712/e63f0c8d-1a40-4fe5-a856-ca9ef3ca0fd4">
 <img width="986" alt="第10题" src="https://github.com/zwf19980319/Bilibili/assets/38912712/c79302ae-35be-451c-aeb9-f33a6c9eed73">
 * 而询问了是否使用多选功能后，我们在11题还问了一般会多选给几个人转发，这基于QQ和微信的多选功能限制，我们设定了一个阈值，即最多转发给9个人。
 * Translate：After asking whether to use the multi-choice function, we also asked in question 11 that we would generally select several people to forward, which is based on the multi-choice function restrictions of QQ and wechat, we set a threshold, that is, a maximum of 9 people to forward.
